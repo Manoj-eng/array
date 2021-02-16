@@ -1,0 +1,31 @@
+
+
+#data{
+    background-color: aqua;
+    font-size: 18px;
+    font-weight: 500;
+    width: 100%;
+  
+    
+    
+     
+}
+
+.mine{
+    height: 30px;
+    font-size: 20px;
+   
+}
+
+.single{
+    padding-bottom: 30px;
+    display: inline-flex;
+   margin-left: 50px;
+   
+}
+
+.tab{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
